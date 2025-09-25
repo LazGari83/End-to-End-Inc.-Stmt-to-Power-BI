@@ -47,7 +47,7 @@ The Power BI report includes:
 - Breakout of Revenue by Country and States
 - Year-over-Year % indicators with trend axis  
 
-![KPI Cards Screenshot]<img width="1539" height="869" alt="image" src="https://github.com/user-attachments/assets/54b08262-7669-4b79-a6ef-4f4b06f17110" />
+<img width="1539" height="869" alt="image" src="https://github.com/user-attachments/assets/54b08262-7669-4b79-a6ef-4f4b06f17110" />
 
 
 ---
@@ -55,7 +55,7 @@ The Power BI report includes:
 ### 🔹 Key Influencers
 - Shows what factors are influencing Gross Profit Year over Year   
 
-![Trend Lines Screenshot]<img width="1529" height="866" alt="image" src="https://github.com/user-attachments/assets/198f4857-7ef1-4d14-b290-8a774c62ae20" />
+<img width="1529" height="866" alt="image" src="https://github.com/user-attachments/assets/198f4857-7ef1-4d14-b290-8a774c62ae20" />
 
 
 ---
