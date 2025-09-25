@@ -34,16 +34,17 @@ The Power BI report includes:
 ### 🔹 Income Statement Matrix
 - Current vs Previous year  
 - Dollar & % YoY Change  
-- Highlighted Gross Profit  
+- Highlighted Gross Profit
+- KPI Cards
 
-![Income Statement Screenshot] <img width="1532" height="860" alt="image" src="https://github.com/user-attachments/assets/5bbe92c6-3f58-4856-8c1d-41a28605938d" />
+ <img width="1532" height="860" alt="image" src="https://github.com/user-attachments/assets/5bbe92c6-3f58-4856-8c1d-41a28605938d" />
 
 
 ---
 
-### 🔹 KPI Cards
-- Total Revenue vs Last Year  
-- Gross Profit vs Last Year  
+### 🔹 Decompisition Tree
+- Breakout of Gross Profit by category and Subcategories
+- Breakout of Revenue by Country and States
 - Year-over-Year % indicators with trend axis  
 
 ![KPI Cards Screenshot]<img width="1539" height="869" alt="image" src="https://github.com/user-attachments/assets/54b08262-7669-4b79-a6ef-4f4b06f17110" />
@@ -51,9 +52,8 @@ The Power BI report includes:
 
 ---
 
-### 🔹 Trend Visuals
-- **Line chart**: Revenue vs Last Year by month  
-- **Line chart**: Gross Profit YoY % trend  
+### 🔹 Key Influencers
+- Shows what factors are influencing Gross Profit Year over Year   
 
 ![Trend Lines Screenshot]<img width="1529" height="866" alt="image" src="https://github.com/user-attachments/assets/198f4857-7ef1-4d14-b290-8a774c62ae20" />
 
